@@ -37,3 +37,22 @@ ul, ol{
     left: 350px;
     top: 200px;
 }
+.habs{
+    position: relative;
+    left: 350px;
+    top: 200px;
+}
+.ex_links{
+    position: relative;
+    left: 350px;
+    top: 200px;
+
+}
+.indice{
+    position: relative;
+    left:350px;
+    top:200px;
+}
+#nome{
+    text-align: center;
+}
