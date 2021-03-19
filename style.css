@@ -1,0 +1,39 @@
+h1{
+    font-family: Raleway, serif;
+    color: #7A0035;
+    font-weight:500;
+}
+h2, h3{
+    font-family: Relaway;
+    color: #6A1137;
+}
+p{
+    font-family: Montserrat, sans-serif;
+    color: #52132f;
+}
+body{
+    background-color: #f4f761;
+}
+ul, ol{
+    font-family: Montserrat;
+    color: #52132f;
+}
+#extra_links {
+    font-family: Montserrat;
+    font-weight: bold;
+    color: #3D3D3D;
+}
+#english{
+    font-size:25px;
+}
+#foto {
+    position: absolute;
+    border-radius: 400px;
+    padding: 10px;
+    background-color:#a1496f;
+}
+.description{
+    position:relative;
+    left: 350px;
+    top: 200px;
+}
