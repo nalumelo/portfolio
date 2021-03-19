@@ -35,24 +35,47 @@ ul, ol{
 .description{
     position:relative;
     left: 350px;
-    top: 200px;
+    top: 40px;
 }
 .habs{
     position: relative;
     left: 350px;
-    top: 200px;
+    top: 40px;
 }
 .ex_links{
     position: relative;
     left: 350px;
-    top: 200px;
+    top: 40px;
 
 }
 .indice{
     position: relative;
     left:350px;
-    top:200px;
+    top:40px;
 }
 #nome{
     text-align: center;
+}
+#desc{
+    padding: 10px;
+    background-color: rgb(187, 60, 81);;
+    color: #e0e420;
+}
+#habi{
+    padding: 10px;
+    background-color: rgb(187, 60, 81);;
+    color: #e0e420;
+}
+.ex_links h2{
+    padding: 10px;
+    background-color: rgb(187, 60, 81);;
+    color: #e0e420;
+}
+.indice h3{
+    padding: 10px;
+    background-color: rgb(187, 60, 81);;
+    color: #e0e420;
+}
+.habs li:nth-of-type(2n-1){
+    font-style: oblique;
 }
